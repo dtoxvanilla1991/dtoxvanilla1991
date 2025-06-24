@@ -44,12 +44,13 @@ class dtoxvanilla1991():
             "10000+ hrs of online learning, courses, certifications, schools and hackathons",
         ]
 
-        self.collaborate_on = ["KINDE jt utils", "KINDE node-express SDK"]
+        self.collaborate_on = ["KINDE jt-utils", "KINDE node-express SDK"]
 
         self.ask_me_about = [
             "Python backend solutions with Flask on DBMSs",
             "TypeScript and React development with Vite",
-            "AI RAG solution integration into enabling smart contracts in SecuriGroup"
+            "AI RAG solution integration to enabling smart contracts in SecuriGroup",
+            "Smart AI-based form suggestions for Lavanda UK"
         ]
 
         self.reach_me = "dtoxvanilla@gmail.com"
@@ -62,7 +63,7 @@ class dtoxvanilla1991():
 
         self.fun_facts = [
             "I am writing this README.md at 03:54 AM 🤔",
-            "I am a fitness enthusiast, love outdoors and travelling as much as games"
+            "I am a fitness enthusiast, love outdoors as much as games, innovation and dogs"
         ]
 
     def forward(self, input):

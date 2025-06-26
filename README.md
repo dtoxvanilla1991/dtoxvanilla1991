@@ -158,9 +158,9 @@ profile = dtoxvanilla1991()
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-  <picture>
+<p align="center">
   <img src="https://leetcode-stats-card.herokuapp.com/dtoxvanilla?theme=dark&font=baloo&ext=heatmap" alt="DToxVanilla1991's LeetCode Stats" />
-  </picture>
+</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=github-light">

@@ -157,27 +157,32 @@ profile = dtoxvanilla1991()
   </picture>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
-
-  <a href="https://leetcode.com/dtoxvanilla/">
-    <img 
-      src="https://leetcode.card.workers.dev/dtoxvanilla?theme=dark&font=baloo&extension=null" 
-      alt="dtoxvanilla's LeetCode Stats"
-      height="200"
-    />
-  </a>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=github-light">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react" 
-      alt="dtoxvanilla1991's GitHub Activity Graph"
-      height="200"
-    />
-  </picture>
-  
-</div>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0; text-align: center;">
+      <a href="https://leetcode.com/dtoxvanilla/">
+        <img 
+          src="https://leetcode.card.workers.dev/dtoxvanilla?theme=dark&font=baloo&extension=null" 
+          alt="dtoxvanilla's LeetCode Stats"
+          height="200"
+        />
+      </a>
+    </td>
+    <td style="width: 60px;">&nbsp;
+    </td>
+    <td style="padding: 0; text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=github-light">
+        <img 
+          src="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react" 
+          alt="dtoxvanilla1991's GitHub Activity Graph"
+          height="200"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <p align='center'>
   <picture>

@@ -157,7 +157,7 @@ profile = dtoxvanilla1991()
   </picture>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
 
   <a href="https://leetcode.com/dtoxvanilla/">
     <img 

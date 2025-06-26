@@ -158,27 +158,25 @@ profile = dtoxvanilla1991()
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-  <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-    <a href="https://leetcode.com/dtoxvanilla/">
-      <img 
-        src="https://leet-code-readme-stats.vercel.app/api?username=dtoxvanilla&theme=dark" 
-        alt="dtoxvanilla's LeetCode Stats" 
-      />
-    </a>
-  </div>
+
+  <a href="https://leetcode.com/dtoxvanilla/">
+    <img 
+      src="https://leetcode.card.workers.dev/dtoxvanilla?theme=dark&font=baloo&extension=null" 
+      alt="dtoxvanilla's LeetCode Stats"
+      height="200"
+    />
+  </a>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=github-light">
-    <img height="160" width="430" src="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react" alt="dtoxvanilla1991's GitHub Activity Graph"/>
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react" 
+      alt="dtoxvanilla1991's GitHub Activity Graph"
+      height="200"
+    />
   </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dtoxvanilla1991/dtoxvanilla1991/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dtoxvanilla1991/dtoxvanilla1991/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dtoxvanilla1991/dtoxvanilla1991/output/github-contribution-grid-snake.svg">
-  </picture>
+  
 </div>
 
 <p align='center'>

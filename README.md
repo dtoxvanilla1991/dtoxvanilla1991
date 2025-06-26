@@ -158,14 +158,14 @@ profile = dtoxvanilla1991()
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-<div>
-  <h2 align="center">💻 &nbsp;LeetCode Stats</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-card.herokuapp.com/dtoxvanilla?theme=dark&font=baloo">
-    <source media="(prefers-color-scheme: light)" srcset="https://leetcode-stats-card.herokuapp.com/dtoxvanilla?theme=light&font=baloo">
-    <img src="https://leetcode-stats-card.herokuapp.com/dtoxvanilla" alt="DToxVanilla1991's LeetCode Stats"/>
-  </picture>
-</div>
+  <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+    <a href="https://leetcode.com/dtoxvanilla/">
+      <img 
+        src="https://leet-code-readme-stats.vercel.app/api?username=dtoxvanilla&theme=dark" 
+        alt="dtoxvanilla's LeetCode Stats" 
+      />
+    </a>
+  </div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=github-light">

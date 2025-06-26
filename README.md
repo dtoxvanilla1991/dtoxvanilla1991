@@ -159,9 +159,7 @@ profile = dtoxvanilla1991()
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dtoxvanilla1991&theme=react&card_width=480&card_height=200">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dtoxvanilla1991&theme=vue&card_width=480&card_height=200">
-    <img height="160" width="370" src="https://streak-stats.demolab.com/?user=dtoxvanilla1991&theme=react&card_width=320&card_height=180" alt="dtoxvanilla1991's GitHub Streak Stats"/>
+  <img src="https://leetcode-stats-card.herokuapp.com/dtoxvanilla1991?theme=dark&font=baloo&ext=heatmap" alt="DToxVanilla1991's LeetCode Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react">

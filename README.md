@@ -184,6 +184,18 @@ profile = dtoxvanilla1991()
   </tr>
 </table>
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=github-light">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react" 
+      alt="dtoxvanilla1991's GitHub Activity Graph"
+      height="200"
+    />
+  </picture>
+</div>
+
 <p align='center'>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&animation=fadeIn&descAlignY=51&descAlign=62&fontColor=61DAFB">

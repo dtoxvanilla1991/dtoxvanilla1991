@@ -184,15 +184,11 @@ profile = dtoxvanilla1991()
   </tr>
 </table>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=github-light">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=dtoxvanilla1991&theme=react" 
-      alt="dtoxvanilla1991's GitHub Activity Graph"
-      height="200"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dtoxvanilla1991/dtoxvanilla1991/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dtoxvanilla1991/dtoxvanilla1991/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dtoxvanilla1991/dtoxvanilla1991/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 

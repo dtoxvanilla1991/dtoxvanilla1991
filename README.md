@@ -20,8 +20,9 @@
   <img src="https://img.shields.io/badge/Custom-APIs-green" alt="Custom APIs badge" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Lover-red" alt="Code Lover Badge" />
-  <a href="https://user-badge.committers.top/uk/dtoxvanilla1991"><img src="https://user-badge.committers.top/uk/dtoxvanilla1991.svg" alt="Committer Rank" /></a>
+  <img src="https://img.shields.io/badge/Code-Lover-red" alt="Code lover badge" />
+  <img src="https://img.shields.io/badge/Agentic AI-Builder-purple" alt="Agentic AI builder badge" />
+<!--   <a href="https://user-badge.committers.top/uk/dtoxvanilla1991"><img src="https://user-badge.committers.top/uk/dtoxvanilla1991.svg" alt="Committer Rank" /></a> -->
 </p>
 
 <!-- About Me -->

@@ -184,7 +184,7 @@ profile = dtoxvanilla1991()
     <td style="padding: 0; text-align: center;">
       <a href="https://leetcode.com/dtoxvanilla/">
         <img 
-          src="https://leetcode.card.workers.dev/dtoxvanilla?theme=dark&font=baloo&extension=null" 
+          src="https://leetcard.jacoblin.cool/dtoxvanilla?theme=dark&font=baloo&extension=activity" 
           alt="dtoxvanilla's LeetCode Stats"
           height="200"
         />
